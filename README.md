@@ -1,5 +1,8 @@
 ### Hi there 👋
-Start with a quiz program to get to know me!😄   https://chen44a.github.io/Quiz-Projektarbete/
+Start with a quiz program to get to know me!😄   https://chen44a.github.io/Quiz-Projektarbete/  
+Try my Pokémon application to escape the boredom. 😜  https://chen44a.github.io/Pokemon-Application/index.html
+https://github.com/user-attachments/assets/a030e39f-0faf-4940-9abe-3dcc31726a9f
+
 
 
 
