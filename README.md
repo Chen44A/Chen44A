@@ -1,8 +1,6 @@
 ### Hi there 👋
 Start with a quiz program to get to know me!😄   https://chen44a.github.io/Quiz-Projektarbete/
 
-https://github.com/user-attachments/assets/4f7ca39f-effe-4741-8639-1a53c27d6c0f
-
 
 
 
