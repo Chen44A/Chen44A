@@ -1,5 +1,5 @@
 ### Hi！👋
-I'm in my final year of Front-end development studies at Nackademin.🏫. I'm passionate about popular frameworks like React.js and Vue.js, and preparing to become a full-stack developer in the future. 🧐.  
+I'm in my final year of Front-end development studies at Nackademin.🏫. I'm passionate about popular frameworks like React.js and Vue.js, and planing to become a full-stack developer in the future. 🧐.  
 
   
 Start with a quiz program to get to know me!😄   https://chen44a.github.io/Quiz-Projektarbete/  
