@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi！👋
+I'm in my final year of Front-end development studies at Nackademin.🏫. I'm passionate about popular frameworks like React.js and Vue.js, and preparing to become a full-stack developer in the future. 🧐.  
 Start with a quiz program to get to know me!😄   https://chen44a.github.io/Quiz-Projektarbete/  
 Try my Pokémon application to escape the boredom. 😜  https://chen44a.github.io/Pokemon-Application/index.html
 
